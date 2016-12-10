@@ -12,7 +12,7 @@ Repository currently marked as dev. Set up your ```composer.json``` consequently
     {
                 "type": "vcs",
                 "url": "https://github.com/pbald/doctrine2-smysp.git"
-    }
+    },
     {
                 "type": "vcs",
                 "url": "https://github.com/pbald/geophp-bundle.git"
